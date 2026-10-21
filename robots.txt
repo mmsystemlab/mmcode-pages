@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mmcode.com.br
+Sitemap: https://mmcode.com.br/sitemap.xml
